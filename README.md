@@ -1,5 +1,3 @@
-# Sunwoo Han (yadon079)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyadon079)](https://hits.seeyoufarm.com)
 [![Resume](https://img.shields.io/badge/Resume-Notion-orange?style=flat-square)](https://yadon079.notion.site/87f919c478444560a55ce73036522297)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sunwoo-han-8398a61b9/)](https://www.linkedin.com/in/sunwoo-han-8398a61b9/)
