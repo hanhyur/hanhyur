@@ -13,7 +13,7 @@
 ---
 
 ### 💁🏻‍♂️ Brief
-- I'm Yadon Or Aslan, 야돈 또는 아슬란
+- I'm Yadon, 야돈
 - Working as a **Back-end Engineer**
 - Mainly using **Java**
 - And... a little bit Javascript
