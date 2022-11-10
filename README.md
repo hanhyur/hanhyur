@@ -19,7 +19,7 @@
 - And... a little bit Javascript
 
 ### 💼 Experience
-- **niceday** - Backend Dev *(Aug 2022 ~ PRESENT)*
+- **niceday** - Backend Dev *(Aug 2022 ~ NOV 2022)*
 - **Pref** - SI. Web Backend *(Sep 2021 ~ Jul 2022)*
 
 ### 📄 Blog
