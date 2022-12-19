@@ -13,7 +13,7 @@
 ---
 
 ### 💁🏻‍♂️ Brief
-- I'm Yadon, 야돈
+- I'm HYUR, 휴르
 - Working as a **Back-end Engineer**
 - Mainly using **Java**
 - And... a little bit Javascript
@@ -23,7 +23,8 @@
 - **Pref** - SI. Web Backend *(Sep 2021 ~ Jul 2022)*
 
 ### 📄 Blog
-  - [Blog](https://yadon079.github.io)
+  - [Blog](https://hanhyur.github.io)
+  - [Tistory](https://thankowl777.tistory.com/)
 
 ### Contacts
   - [Email](mailto:thankowl777@kakao.com)
