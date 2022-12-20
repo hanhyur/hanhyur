@@ -13,7 +13,7 @@
 ---
 
 ### 💁🏻‍♂️ Brief
-- I'm HYUR, 휴르
+- I'm Hyur, 휴르
 - Working as a **Back-end Engineer**
 - Mainly using **Java**
 - And... a little bit Javascript
