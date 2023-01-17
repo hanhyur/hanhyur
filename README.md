@@ -5,8 +5,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=fff)
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=fff)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hanhyur&show_icons=true)
-
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=fff)
 
 <!--[![Solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=thankowl777)](https://solved.ac/thankowl777)-->
 
