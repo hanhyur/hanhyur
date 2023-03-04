@@ -18,6 +18,7 @@
 - And... a little bit Javascript
 
 ### 💼 Experience
+- **MUSMA** - Backend Dev *(Mar 2023 ~ )*
 - **niceday** - Backend Dev *(Aug 2022 ~ Nov 2022)*
 - **Pref** - SI. Web Backend *(Sep 2021 ~ Jul 2022)*
 
