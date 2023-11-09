@@ -15,7 +15,7 @@
 - I'm Hyur, 휴르
 - Working as a **Back-end Engineer**
 - Mainly using **Java**
-- And... a little bit Javascript
+- And... a little bit Javascript, Kotlin
 
 ### 💼 Experience
 - **MUSMA** - Backend Dev *(Mar 2023 ~ )*
