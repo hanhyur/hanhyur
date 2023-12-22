@@ -21,13 +21,6 @@
 - **MUSMA** - Backend Dev *(Mar 2023 ~ )*
 - **niceday** - Backend Dev *(Aug 2022 ~ Nov 2022)*
 - **Pref** - Web Backend *(Sep 2021 ~ Jul 2022)*
-
-### 📄 Blog
-  - [Blog](https://hanhyur.github.io)
-  - [Tistory](https://thankowl777.tistory.com/)
-
+  
 ### Contacts
   - [Email](mailto:thankowl777@kakao.com)
-
-### Activity
-  - [온라인 자바 스터디 1기](https://github.com/whiteship/live-study) *(Nov 2020 ~ Feb 2021)*
