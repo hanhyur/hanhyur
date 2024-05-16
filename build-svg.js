@@ -38,9 +38,9 @@ weather.setAPPID(WEATHER_API_KEY);
 weather.getAllWeather(function(err, data) {
   if (err) console.log(err);
 
-  const degF = Math.round(data.main.temp_max);
+  const degF = Math.round(data.main.temp);
   const degC = Math.round(qty(`${degF} tempF`).to("tempC").scalar);
-  const icon = data.weather.icon;
+  const icon = data.weather[0].icon;
 
   fs.readFile("template.svg", "utf-8", (error, data) => {
     if (error) {
