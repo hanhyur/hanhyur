@@ -36,10 +36,9 @@ weather.setUnits("imperial");
 weather.setAPPID(WEATHER_API_KEY);
 
 weather.getAllWeather(function(err, data) {
-  console.log(data);
   if (err) console.log(err);
 
-  const degF = Math.round(data.main.temp);
+  const degF = Math.round(data.main.temp_max);
   const degC = Math.round(qty(`${degF} tempF`).to("tempC").scalar);
   const icon = data.weather[0].icon;
 
