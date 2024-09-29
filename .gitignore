@@ -7,3 +7,4 @@ dist-ssr
 .envrc
 .env
 .idea
+patches
