@@ -65,7 +65,7 @@ weather.getWeatherOneCall(function(err, data) {
 
 weather.setAPPID(WEATHER_API_KEY);
 
-weather.getWeatherOneCall(function(err, data) {
+weather.getWeatherCity(function(err, data) {
   if (err) console.log(err);
 
   const degC = Math.round(data.main.temp_max);
