@@ -63,10 +63,9 @@ weather.getWeatherOneCall(function(err, data) {
   });
 });*/
 
-// weather.setAPPID(WEATHER_API_KEY);
-weather.setAPPID('45956d80b40bc025b521cce65b57d270');
+weather.setAPPID(WEATHER_API_KEY);
 
-weather.getWeatherCity(function(err, data) {
+weather.getWeatherOneCall(function(err, data) {
   if (err) console.log(err);
 
   const degC = Math.round(data.main.temp_max);
