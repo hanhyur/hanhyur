@@ -63,14 +63,15 @@ weather.getWeatherOneCall(function(err, data) {
   });
 });*/
 
-weather.setAPPID(WEATHER_API_KEY);
+// weather.setAPPID(WEATHER_API_KEY);
+weather.setAPPID('45956d80b40bc025b521cce65b57d270');
 
 weather.getWeatherCity(function(err, data) {
   if (err) console.log(err);
 
   const degC = Math.round(data.main.temp_max);
   const degF = Math.round(qty(`${degC} tempC`).to("tempF").scalar);
-  const icon = data.weather.icon;
+  const icon = data.weather[0].icon;
 
   fs.readFile("template.svg", "utf-8", (error, data) => {
     if (error) {
