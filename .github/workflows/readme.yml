@@ -17,6 +17,10 @@ jobs:
           node-version: 20
       - run: npm install
 
+      - name: Apply patch to node_modules
+        run: |
+          patch -p1 < patches/openweather-apis+4.4.2.patch
+
       - name: Generate readme
         env:
           WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
