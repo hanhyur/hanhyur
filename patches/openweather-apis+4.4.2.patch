@@ -1,0 +1,40 @@
+diff --git a/node_modules/openweather-apis/index.js b/node_modules/openweather-apis/index.js
+index 8a1f9c1..0a16fb5 100644
+--- a/node_modules/openweather-apis/index.js
++++ b/node_modules/openweather-apis/index.js
+@@ -3,9 +3,11 @@
+ (function(){
+ 
+   var config = {
+-    city : 'Fairplay',
++    // city : 'Fairplay',
++    city : 'Seoul',
+     units : 'metric',
+-    lan : 'it',
++    // lan : 'it',
++    lan : 'kr',
+     format : 'json',
+     APPID : null,
+     ssl: false,
+@@ -145,6 +147,10 @@
+     getData(buildPathOneCall(), callback);
+   };
+ 
++  weather.getWeatherCity = function (callback){
++    getData(buildPathWeatherCity(), callback);
++  }
++
+   weather.getSmartJSON = function(callback){
+     getSmart(callback);
+   };
+@@ -244,6 +250,10 @@
+     return '/data/2.5/onecall?' + getCoordinate() + '&' + querystring.stringify({units: config.units, lang: config.lan, exclude: config.exclude, APPID: config.APPID});
+   }
+ 
++  function buildPathWeatherCity() {
++    return '/data/2.5/weather?' + querystring.stringify({q: config.city, units: config.units, lang: config.lan, mode: 'json', APPID: config.APPID});
++  }
++
+   function getData(url, callback, tries){
+     options.path = url;
+     var conn = getHttp().get(options, function(res){
